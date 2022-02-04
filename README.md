@@ -10,4 +10,4 @@ Doesn'n matter if the string includes capital letters or not.
   - "ette"
 
 ## Exercise
-Create a function that verifies if a given string is palindrome or not
+Create a function that verifies if a given string is palindrome or not. Also, create a unit test project to verify the examples above.
